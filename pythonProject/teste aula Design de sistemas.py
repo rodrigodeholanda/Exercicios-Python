@@ -1,2 +1,2 @@
-print('ola mundo')
-print('esse é meu novo projeto')
+print('Ola mundo')
+print('essa é a primeira modificação do projeto')
