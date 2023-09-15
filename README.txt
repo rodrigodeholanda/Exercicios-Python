@@ -1,1 +1,1 @@
-Os arquivos nesse repositório foram elaborados apartir das problemáticas apresentadas em aulas da Faculdade. 
+Os arquivos nesse repositório foram elaborados para solucionar exercícios da faculdade em Python.  
