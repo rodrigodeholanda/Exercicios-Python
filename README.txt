@@ -1,1 +1,1 @@
-Este é o arquivo do projeto da aula. Modificação 2
+Os arquivos nesse repositório foram elaborados apartir das problemáticas apresentadas em aulas da Faculdade. 
